@@ -1,6 +1,6 @@
 package br.com.meli.bootcamp.calculadoracalorias.controller;
 
-import br.com.meli.bootcamp.calculadoracalorias.model.ProdutoDTO;
+import br.com.meli.bootcamp.calculadoracalorias.model.dto.ProdutoDTO;
 import br.com.meli.bootcamp.calculadoracalorias.model.service.FindProdutosServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

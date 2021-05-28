@@ -1,7 +1,7 @@
 package br.com.meli.bootcamp.calculadoracalorias.model.repository;
 
 
-import br.com.meli.bootcamp.calculadoracalorias.model.ProdutoDTO;
+import br.com.meli.bootcamp.calculadoracalorias.model.dto.ProdutoDTO;
 
 import java.util.List;
 

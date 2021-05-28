@@ -1,4 +1,4 @@
-package br.com.meli.bootcamp.calculadoracalorias.model;
+package br.com.meli.bootcamp.calculadoracalorias.model.dto;
 
 import java.util.List;
 

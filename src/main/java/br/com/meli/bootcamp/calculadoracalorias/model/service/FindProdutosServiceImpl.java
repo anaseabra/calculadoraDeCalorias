@@ -1,7 +1,7 @@
 package br.com.meli.bootcamp.calculadoracalorias.model.service;
 
-import br.com.meli.bootcamp.calculadoracalorias.model.IngredienteDTO;
-import br.com.meli.bootcamp.calculadoracalorias.model.ProdutoDTO;
+import br.com.meli.bootcamp.calculadoracalorias.model.dto.IngredienteDTO;
+import br.com.meli.bootcamp.calculadoracalorias.model.dto.ProdutoDTO;
 import br.com.meli.bootcamp.calculadoracalorias.model.repository.IngredientesRepository;
 import org.springframework.stereotype.Service;
 

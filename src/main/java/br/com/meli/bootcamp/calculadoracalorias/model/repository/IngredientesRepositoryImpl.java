@@ -1,6 +1,6 @@
 package br.com.meli.bootcamp.calculadoracalorias.model.repository;
 
-import br.com.meli.bootcamp.calculadoracalorias.model.ProdutoDTO;
+import br.com.meli.bootcamp.calculadoracalorias.model.dto.ProdutoDTO;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Repository;
