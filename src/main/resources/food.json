@@ -1,0 +1,60 @@
+[
+  {
+    "name": "pizza",
+    "caloriasTotais": 255,
+    "ingredientes":
+    [
+
+      {
+        "name": "Ajos",
+        "calories": 169
+      },
+      {
+        "name": "Alcachofas",
+        "calories": 64
+      },
+      {
+        "name": "Pimiento",
+        "calories": 22
+      }
+    ]
+  },
+  {
+    "name": "lasanha",
+    "caloriasTotais": 605,
+    "ingredientes":
+    [
+      {
+        "name": "Ciruela seca",
+        "calories": 290
+      },
+      {
+        "name": "Manzana",
+        "calories": 52
+      },
+      {
+        "name": "Queso Brie",
+        "calories": 263
+      }
+    ]
+  },
+  {
+    "name": "Hamburguer",
+    "caloriasTotais": 1426,
+    "ingredientes":
+    [
+      {
+        "name": "Queso cheddar",
+        "calories": 381
+      },
+      {
+        "name": "Bacon (Panceta ahumada)",
+        "calories": 665
+      },
+      {
+        "name": "Jamón",
+        "calories": 380
+      }
+    ]
+  }
+]
